@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yarullin-Robert
 - 👀 I’m interested in front-end developmet
-- 🌱 I’m currently learning JS,REACT,REDUX,Webpack
+- 🌱 I’m currently learning JS,TS,REACT,REDUX,Webpack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fallenlord45@gmail.com
 
